@@ -12,7 +12,7 @@ logger = logging.getLogger(__name__)
 
 # Telegram Bot setup
 BOT_TOKEN = "6789851954:AAFhh5WV_NbbINjnduOrtwJ16_8JQkbEwT8"
-CHAT_ID = "-4551064532"
+CHAT_ID = "-1002003404373"
 TRACK_FILE = "sent_articles.json"
 WAIT_TIME = 24 * 60 * 60  # Default: 24 hours
 MESSAGE_DELAY = 5  # Delay between messages in seconds
